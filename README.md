@@ -1,8 +1,15 @@
 # arXivGet
+
+<p>
+<img align="left" style="float:left;border:3px solid black" width=92 height=128 src="https://raw.githubusercontent.com/sajith-rahim/cdn/main/content/blog/media/warn_tag.png" />
+</p>
+
+</br>
+
 fetch arXiv Papers
 
-
-
+<br>
+<hr/>
 
 ## Usage
 
@@ -40,3 +47,8 @@ print(res)
 |  9 | Functional law of large numbers and central limit theorem for slow-fast McKean-Vlasov equations        | https://arxiv.org/abs/2207.05949 | https://arxiv.org/pdf/2207.05949 | In this paper, we study the asymptotic behavior of a fully-coupled slow-fast McKean-Vlasov stochastic system. Using the non-linear Poisson equation on Wasserstein space, we first establish the strong convergence in the averaging principle of the functional law of large numbers type. In particular, the diffusion coefficient of the slow process can depend on the distribution of the fast motion. Then we consider the stochastic fluctuations of the original system around its average, and prove that the normalized difference will converge weakly to a linear McKean-Vlasov Ornstein-Uhlenbeck type process, which can be viewed as a functional central limit theorem. Extra drift and diffusion coefficients involving the expectation are characterized explicitly. Furthermore, the optimal rates of the convergence are also obtained.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |    |                                                                                                        |                                  |                                  |         △ Less                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
+
+## Future
+* Paginate
+* Download Files
+* Connected Papers.
